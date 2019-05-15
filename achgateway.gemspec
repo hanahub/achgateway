@@ -5,4 +5,5 @@ Gem::Specification.new do |s|
   s.summary = %q{achgateway}
   s.files         = `git ls-files`.split("\n")
   s.require_paths = ["lib"]
+  s.authors     = ["Valentin Marinov"]
 end
